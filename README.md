@@ -27,4 +27,4 @@ aplikasi ini masih sederhana dan kemungkinan akan terus dikembangkan.
 
 Catatan: Aplikasi ini masih di tahap pengembangan jadi selama penggunaan website ini masih banyak kekurangannya.
 
-ARIANDRA FEBRIYANTO - 2025
+ARIANDRA FEBRIYANTO
