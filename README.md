@@ -29,7 +29,7 @@ Catatan: Aplikasi ini masih di tahap pengembangan jadi selama penggunaan website
 
 Versi Aplikasi:
 
-APDAK 1.0 = Belum menyesuaikan halaman berdasarkan role (petugas/penduduk)
-APDAK 1.1 = Sudah menyesuaikan halaman berdasarkan role (petugas/penduduk)
+1. APDAK 1.0 = Belum menyesuaikan halaman berdasarkan role (petugas/penduduk)
+2. APDAK 1.1 = Sudah menyesuaikan halaman berdasarkan role (petugas/penduduk)
 
 ARIANDRA FEBRIYANTO
