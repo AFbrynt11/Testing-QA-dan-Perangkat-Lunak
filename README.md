@@ -31,6 +31,6 @@ Versi Aplikasi:
 1. APDAK 1.0 = Belum menyesuaikan halaman berdasarkan role (petugas/penduduk)
 2. APDAK 1.1 = Sudah menyesuaikan halaman berdasarkan role (petugas/penduduk)
 
-Catatan: Maaf untuk bisa lihat aplikasi ini perlu download terlebih dahulu🙏
+Catatan: Maaf untuk bisa lihat aplikasi ini perlu download terlebih dahulu lalu untuk mencoba kedua versi ini rename dahulu folder menjadi AplikasiKU.com🙏
 
 ARIANDRA FEBRIYANTO
