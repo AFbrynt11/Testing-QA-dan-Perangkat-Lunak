@@ -11,7 +11,7 @@ aplikasi ini masih sederhana dan kemungkinan akan terus dikembangkan.
 - Terkait database yang digunakan berikut isinya:
 1. Tabel User > ID (Auto), Username, Password, Role (petugas/penduduk), dan Waktu dibuat (Auto).
 2. Tabel Penduduk > ID (Auto), NIK, Nama, Jenis Kelamin, Tanggal Lahir, Tempat Lahir, Alamat, RT, dan RW.
-3. Tabel Laporan > No Laporan (Auto), Keterangan, dan Waktu.
+3. Tabel Laporan > ID (Auto), Keterangan, dan Waktu.
 
 - Lalu adanya alur atau Activity dari penggunaan aplikasi kependudukan ini yaitu:
 1. Pertama masuk ke halaman awal website atau index berisi ucapan selamat datang dan pengguna diberikan dua pilihan Login atau Register.
